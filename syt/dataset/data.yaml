@@ -1,0 +1,7 @@
+names:
+- school_uniform
+- training
+nc: 2
+path: E:\aiproject
+train: dataset/train/images
+val: dataset/val/images
