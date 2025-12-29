@@ -18,8 +18,8 @@ AI 이미지 인식 기술을 활용한 교복·체육복 자동 점검 웹 시�
 * 인식 기록
 * 알림 시스템
 
-### //*TODO*//
-AWS 아키텍처..
+### 시스템 아키텍처
+<img width="800" height="500" alt="Image" src="https://github.com/user-attachments/assets/80e5de49-9242-42e2-b482-3bddb1882798" />
 
 ### 아쉬운 점
 볼륨 디스크 용량 부족 때문에 Yolo로 만든 AI모델을 EC2에 못 올려서 배포를 못 한 점이 아쉽다. 
